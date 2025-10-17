@@ -1,0 +1,43 @@
+{
+  "name": "Kanagawa dark theme",
+  "is_dark": true,
+  "colors": {
+    "accent-color": "#7FB4CA",
+    "primary-color": "#7E9CD8",
+    "warning-color": "#E82424",
+    "sidebar-color": "#1F1F28",
+    "roomlist-background-color": "#16161D",
+    "roomlist-text-color": "#DCD7BA",
+    "roomlist-text-secondary-color": "#C8C093",
+    "roomlist-highlights-color": "#2A2A37",
+    "roomlist-separator-color": "#363646",
+    "timeline-background-color": "#1F1F28",
+    "timeline-text-color": "#DCD7BA",
+    "secondary-content": "#C8C093",
+    "tertiary-content": "#727169",
+    "timeline-text-secondary-color": "#9CABCA",
+    "timeline-highlights-color": "#2A2A37",
+    "reaction-row-button-selected-bg-color": "#957FB8"
+  },
+  "compound": {
+    "--cpd-color-theme-bg": "#1F1F28",
+    "--cpd-color-bg-canvas-default": "#16161D",
+    "--cpd-color-bg-subtle-secondary": "#2A2A37",
+    "--cpd-color-bg-subtle-primary": "#363646",
+    "--cpd-color-bg-action-primary-rest": "#7E9CD8",
+    "--cpd-color-bg-critical-primary": "#E82424",
+    "--cpd-color-bg-accent-rest": "#7FB4CA",
+    "--cpd-color-text-primary": "#DCD7BA",
+    "--cpd-color-text-secondary": "#9CABCA",
+    "--cpd-color-text-action-accent": "#7E9CD8",
+    "--cpd-color-text-critical-primary": "#C34043",
+    "--cpd-color-text-success-primary": "#98BB6C",
+    "--cpd-color-icon-primary": "#DCD7BA",
+    "--cpd-color-icon-secondary": "#938AA9",
+    "--cpd-color-icon-tertiary": "#C8C093",
+    "--cpd-color-icon-accent-tertiary": "#7FB4CA",
+    "--cpd-color-border-interactive-primary": "#54546D",
+    "--cpd-color-border-critical-primary": "#C34043",
+    "--cpd-color-border-success-subtle": "#76946A"
+  }
+}

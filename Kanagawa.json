@@ -21,7 +21,7 @@
   },
   "compound": {
     "--cpd-color-theme-bg": "#1F1F28",
-    "--cpd-color-bg-canvas-default": "#16161D",
+    "--cpd-color-bg-canvas-default": "#1f1f28",
     "--cpd-color-bg-subtle-secondary": "#2A2A37",
     "--cpd-color-bg-subtle-primary": "#363646",
     "--cpd-color-bg-action-primary-rest": "#7E9CD8",

@@ -38,6 +38,7 @@
     "--cpd-color-icon-accent-tertiary": "#7FB4CA",
     "--cpd-color-border-interactive-primary": "#54546D",
     "--cpd-color-border-critical-primary": "#C34043",
-    "--cpd-color-border-success-subtle": "#76946A"
+    "--cpd-color-border-success-subtle": "#76946A",
+    "--cpd-color-icon-quaternary": "#dca561"
   }
 }
